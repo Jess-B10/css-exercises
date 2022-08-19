@@ -1,6 +1,6 @@
 p.odd{
     background-color:rgb(192, 101, 116);
-    font: Verdana, "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #num2{
     color:rgb(44, 44, 192);
